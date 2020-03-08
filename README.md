@@ -1,4 +1,5 @@
 # bash-handbook
+https://medium.com/@sankad_19852/shell-scripting-exercises-5eb7220c2252
 
 [![CC 4.0][cc-image]][cc-url]
 [![NPM version][npm-image]][npm-url]
