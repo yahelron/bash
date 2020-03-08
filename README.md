@@ -1,5 +1,8 @@
 # bash-handbook
+
+# Questions and samples (links)
 https://medium.com/@sankad_19852/shell-scripting-exercises-5eb7220c2252
+https://linuxhint.com/bash_scripting_interview_questions/
 
 [![CC 4.0][cc-image]][cc-url]
 [![NPM version][npm-image]][npm-url]
